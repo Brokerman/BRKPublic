@@ -5,7 +5,7 @@
 
 <h3 align="left">Contacta conmigo:</h3>
 <p align="left">
-<a href="https://dev.to/www.elrincondecesar.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="www.elrincondecesar.com" height="30" width="40" /></a>
+<a href="https://www.elrincondecesar.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="www.elrincondecesar.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
